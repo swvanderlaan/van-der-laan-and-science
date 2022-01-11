@@ -32,6 +32,6 @@ education:
       year: 2020
 email: ""
 user_groups:
-  - Researchers, Visitors
+  - "Researchers", "Visitors"
 ---
 Katie is visiting us from the University of Leicester to work on the genetics of abdominal aortic aneurysms.

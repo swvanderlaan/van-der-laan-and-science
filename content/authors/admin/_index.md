@@ -52,7 +52,7 @@ education:
 email: s.w.vanderlaan-2@umcutrecht.nl
 superuser: true
 user_groups:
-  - Principal Investigators
+  - "Principal Investigators"
 highlight_name: true
 ---
 I am an assistant professor in the [Central Diagnostics Laboratory](https://www.umcutrecht.nl/en/Subsites/UMC-Utrecht-Lab/About-us/Laboratory-of-Clinical-Chemistry-Haematology) which is part of the [Circulatory Health Program](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health) at the University Medical Center Utrecht and University of Utrecht. My research interest is focused on the genetic and epigenetic causes of carotid and coronary atherosclerosis underlying *ischemic stroke (IS)* and *coronary artery disease (CAD)*, and their intermediate traits such as *carotid intima media thickness (cIMT)* and *arterial calcification*. 

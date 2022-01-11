@@ -36,6 +36,6 @@ education:
       year: 2013
 email: ""
 user_groups:
-  - Researchers
+  - "Researchers"
 ---
 Abdul works as a PhD student on the role of loss-of-function variants in cardiovascular diseases.

@@ -36,6 +36,6 @@ education:
       year: 
 email: ""
 user_groups:
-  - Researchers
+  - "Researchers"
 ---
 Joost works as a clinical PhD student for the inclusion of patients in the Athero-Express Biobank Study. His research focusses on observational studies using whole-slide image analysis of carotid plaque histology.

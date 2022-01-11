@@ -35,6 +35,6 @@ education:
       year: 2019
 email: ""
 user_groups:
-  - Researchers
+  - "Researchers"
 ---
 Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.

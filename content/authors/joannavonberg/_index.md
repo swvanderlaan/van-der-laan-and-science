@@ -36,6 +36,6 @@ education:
       year: 2015
 email: ""
 user_groups:
-  - Researchers
+  - "Researchers"
 ---
 Joanna works as a PhD student on re-evaluating ischemic stroke phenotypes and applying this to study the genetics of stroke. 

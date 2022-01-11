@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - timvandekerkhof
+  - timbezemer
 bio: My focus includes computing and programmable matter.
 interests:
   - Python
@@ -37,6 +37,6 @@ education:
       year: 2011
 email: ""
 user_groups:
-  - Alumni, UnderGrad Students
+  - "Alumni"
 ---
 Tim joined our lab as an intern to perform genome-wide association studies of atherosclerotic endophenotypes. He now works as a data scientist at Always Be Learning.

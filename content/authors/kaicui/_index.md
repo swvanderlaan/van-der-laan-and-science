@@ -36,6 +36,6 @@ education:
       year: 2015
 email: ""
 user_groups:
-  - Researchers
+  - "Researchers"
 ---
 Kai works as a PhD student on genome-wide association studies of atherosclerosis.

@@ -30,6 +30,6 @@ education:
       year: 2019
 email: ""
 user_groups:
-  - Alumni, UnderGrad Students
+  - "Alumni"
 ---
 Tim joined our lab in 2018 for an internship combining deep learning and whole-slide images, and in 2019 he worked on the CONVOCALS and DEEP-ENIGMA projects as a research assistant in bioinformatics. He has finished his studies and now works as a data scientist at Aon.
