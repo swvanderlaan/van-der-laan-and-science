@@ -10,33 +10,30 @@ authors:
   - 吳恩達
 bio: My focus includes computing and programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atherosclerosis
+  - Computational Genetics
+  - Nanobiology
+  - Coding
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
+    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://nl.linkedin.com/in/llandsmeer
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/llandsmeer
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bridging program Nanobiology
+      institution: TU Delft
+      year: 2019
+    - course: BSc in Chemistry
+      institution: Utrecht University
+      year: 2019
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 ---
-Lennart Landsmeer works as a student assistant in bioinformatics.
+Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
