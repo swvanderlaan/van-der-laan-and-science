@@ -19,7 +19,7 @@ social:
     link: mailto:j.m.mekke@umcutrecht.nl
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/jmekke

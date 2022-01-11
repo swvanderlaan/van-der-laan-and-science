@@ -17,13 +17,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
+    link: mailto:test@mail.org
   - icon: linkedin
     icon_pack: fab
     link: https://nl.linkedin.com/in/tbezemer
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: https://github.com/tbezemer
 education:
   courses:
     - course: MSc in Bioinformatics

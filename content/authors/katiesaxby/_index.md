@@ -21,7 +21,7 @@ social:
     link: https://www.linkedin.com/in/katie-saxby-35b19416a
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com
 education:
   courses:
     - course: PhD student

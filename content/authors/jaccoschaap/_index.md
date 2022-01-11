@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
+    link: mailto:test@mail.org
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jacco-schaap-19124b10b

@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/joannavonberg/
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/
 education:
   courses:
     - course: PhD in Stroke Genetics

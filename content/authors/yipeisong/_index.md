@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/%E4%BE%9D%E4%BD%A9-%E5%AE%8B-2503b8148
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: https://github.com/
 education:
   courses:
     - course: PhD in Computer Engineering
