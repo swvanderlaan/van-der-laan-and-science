@@ -1,39 +1,37 @@
 ---
-title: Tim van de Kerkhof
-role: Research assistant bioinformatics
-avatar_filename: tim_van_de_kerkhof.jpeg
+title: Katie Saxby
+role: PhD student
+avatar_filename: katiesaxby.png
 organizations:
-  - name: University Medical Center Utrecht
+  - name: University of Leicester
     url: ""
 superuser: false
 authors:
-  - timvandekerkhof
-bio: My focus includes computing and programmable matter.
+  - katiesaxby
+bio: My focus includes genetics of abdominal aortic aneurysms.
 interests:
-  - Atherosclerosis
-  - Computational Genetics
-  - Nanobiology
-  - Coding
+  - Abdominal aortic aneurysms
+  - Statistical Genetics
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+    link: mailto:kls46@leicester.ac.uk
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/llandsmeer
+    link: https://www.linkedin.com/in/katie-saxby-35b19416a
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: 
 education:
   courses:
-    - course: Bridging program Nanobiology
-      institution: TU Delft
-      year: 2019
-    - course: BSc in Chemistry
+    - course: PhD student
+      institution: University of Leicester
+      year: current
+    - course: MSc in Medical Statistics
       institution: Utrecht University
-      year: 2019
+      year: 2020
 email: ""
 user_groups:
   - Researchers, Visitors
 ---
-Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
+Katie is visiting us from the University of Leicester to work on the genetics of abdominal aortic aneurysms.

@@ -1,6 +1,6 @@
 ---
 title: Abdulrahman I. Alasiri
-role: Research assistant bioinformatics
+role: PhD student
 avatar_filename: abdulrahman_alasiri.jpeg
 organizations:
   - name: University Medical Center Utrecht
@@ -10,10 +10,9 @@ authors:
   - abdulalasiri
 bio: I focus on loss-of-function variants.
 interests:
-  - Atherosclerosis
+  - Loss-of-Function
   - Computational Genetics
-  - Nanobiology
-  - Coding
+  - Bioinformatics
 social:
   - icon: envelope
     icon_pack: fas

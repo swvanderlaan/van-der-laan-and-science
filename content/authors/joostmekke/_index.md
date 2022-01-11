@@ -1,39 +1,41 @@
 ---
 title: Joost Mekke
 role: PhD student
-avatar_filename: lennart_landsmeer.jpeg
+avatar_filename: avatar_male.png
 organizations:
   - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
   - joostmekke
-bio: My focus includes computing and programmable matter.
+bio: My focus includes carotid atherosclerosis.
 interests:
   - Atherosclerosis
-  - Computational Genetics
-  - Nanobiology
-  - Coding
+  - Vascular Surgery
+  - Whole-Slide Image Analysis
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+    link: mailto:j.m.mekke@umcutrecht.nl
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/llandsmeer
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: https://github.com/jmekke
 education:
   courses:
-    - course: Bridging program Nanobiology
-      institution: TU Delft
-      year: 2019
-    - course: BSc in Chemistry
+    - course: PhD Vascular Surgery
+      institution: University Medical Center Utrecht
+      year: current
+    - course: MSc in Medicine
       institution: Utrecht University
-      year: 2019
+      year: 
+    - course: BSc in Medicine
+      institution: Utrecht University
+      year: 
 email: ""
 user_groups:
   - Researchers
 ---
-Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
+Joost works as a clinical PhD student for the inclusion of patients in the Athero-Express Biobank Study. His research focusses on observational studies using whole-slide image analysis of carotid plaque histology.

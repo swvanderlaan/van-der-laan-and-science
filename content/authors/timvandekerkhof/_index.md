@@ -3,37 +3,33 @@ title: Tim van de Kerkhof
 role: Research assistant bioinformatics & BSc intern
 avatar_filename: tim_van_de_kerkhof.jpeg
 organizations:
-  - name: University Medical Center Utrecht
+  - name: Aon
     url: ""
 superuser: false
 authors:
   - timvandekerkhof
-bio: My focus includes computing and programmable matter.
+bio: My focus included computing and programmable matter.
 interests:
   - Atherosclerosis
-  - Computational Genetics
-  - Nanobiology
+  - Computational Sciences
   - Coding
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+    link: mailto:
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/llandsmeer
+    link: https://www.linkedin.com/in/tvdk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: https://github.com/TimVanDeKerkhof5
 education:
   courses:
-    - course: Bridging program Nanobiology
-      institution: TU Delft
-      year: 2019
-    - course: BSc in Chemistry
-      institution: Utrecht University
+    - course: BSc in Bioinformatics
+      institution: Hogeschool van Arnhem en Nijmegen
       year: 2019
 email: ""
 user_groups:
   - Alumni
 ---
-Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
+Tim joined our lab in 2018 for an internship combining deep learning and whole-slide images, and in 2019 he worked on the CONVOCALS and DEEP-ENIGMA projects as a research assistant in bioinformatics. He has finished his studies and now works as a data scientist at Aon.

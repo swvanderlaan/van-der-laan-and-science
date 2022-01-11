@@ -7,33 +7,35 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
-bio: My focus includes computing and programmable matter.
+  - kaicui
+bio: My focus includes the genetics of atherosclerosis.
 interests:
   - Atherosclerosis
   - Computational Genetics
-  - Nanobiology
-  - Coding
+  - Bioinformatics
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+    link: mailto:k.cui@umcutrecht.nl
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/llandsmeer
+    link: https://www.linkedin.com/in/kai-cui-4377a719a
   - icon: github
     icon_pack: fab
-    link: https://github.com/llandsmeer
+    link: https://github.com/Kai6662
 education:
   courses:
-    - course: Bridging program Nanobiology
-      institution: TU Delft
-      year: 2019
-    - course: BSc in Chemistry
-      institution: Utrecht University
-      year: 2019
+    - course: PhD Cardiovascular Science
+      institution: University Medical Center Utrecht
+      year: current
+    - course: MSc Bioinformatics
+      institution: Sichuan University
+      year: 2018
+    - course: BSc in Biology
+      institution: Yunnan Normal University
+      year: 2015
 email: ""
 user_groups:
   - Researchers
 ---
-Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
+Kai works as a PhD student on genome-wide association studies of atherosclerosis.

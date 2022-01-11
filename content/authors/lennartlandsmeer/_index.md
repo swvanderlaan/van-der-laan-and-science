@@ -14,6 +14,7 @@ interests:
   - Computational Genetics
   - Nanobiology
   - Coding
+  - Bioinformatics
 social:
   - icon: envelope
     icon_pack: fas

@@ -1,39 +1,38 @@
 ---
-title: Tim van de Kerkhof
-role: Research assistant bioinformatics
-avatar_filename: tim_van_de_kerkhof.jpeg
+title: Yipei Song
+role: PhD student
+avatar_filename: yipeisong.jpeg
 organizations:
-  - name: University Medical Center Utrecht
+  - name: University of Virginia
     url: ""
 superuser: false
 authors:
-  - timvandekerkhof
-bio: My focus includes computing and programmable matter.
+  - yipeisong
+bio: My focus includes machine learning and computational sciences.
 interests:
-  - Atherosclerosis
-  - Computational Genetics
-  - Nanobiology
+  - Machine Learning
+  - Computational Science
   - Coding
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:l.p.l.landsmeer-2@umcutrecht.nl
+    link: mailto:ys2af@virginia.edu
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/llandsmeer
+    link: https://www.linkedin.com/in/%E4%BE%9D%E4%BD%A9-%E5%AE%8B-2503b8148
   - icon: github
     icon_pack: fab
     link: https://github.com/llandsmeer
 education:
   courses:
-    - course: Bridging program Nanobiology
-      institution: TU Delft
-      year: 2019
-    - course: BSc in Chemistry
-      institution: Utrecht University
-      year: 2019
+    - course: PhD in Computer Engineering
+      institution: University of Virginia
+      year: current
+    - course: MSc in Computer Engineering
+      institution: University of Virginia
+      year: 2018
 email: ""
 user_groups:
   - Researchers, Visitors
 ---
-Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.
+Yipei is a visiting researcher from the [Miller Lab](http://millerlab.org/) in Virginia and applies machine learning on whole-slide images from carotid atherosclerotic plaques.
