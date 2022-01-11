@@ -1,6 +1,6 @@
 ---
 title: Lennart Landsmeer
-role: Student assistant bioinformatics
+role: Research assistant bioinformatics
 avatar_filename: lennart_landsmeer.jpeg
 organizations:
   - name: Stanford University
