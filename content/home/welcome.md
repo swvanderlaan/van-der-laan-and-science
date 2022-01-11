@@ -6,11 +6,11 @@ weight: 10
 title: Van der Laan & Science
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
-    image: bannerartboard_1.png
+    image: ""
     image_darken: 0
     color: ""
 ---
