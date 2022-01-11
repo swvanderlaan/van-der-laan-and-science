@@ -1,12 +1,13 @@
 ---
+title: Lennart Landsmeer
+role: Student assistant bioinformatics
+avatar_filename: lennart_landsmeer.jpeg
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Lennart Landsmeer
-role: Student assistant bioinformatics
 bio: My focus includes computing and programmable matter.
 interests:
   - Artificial Intelligence
