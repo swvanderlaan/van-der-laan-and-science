@@ -1,13 +1,13 @@
 ---
-title: Lennart Landsmeer
+title: Tim van de Kerkhof
 role: Research assistant bioinformatics
-avatar_filename: lennart_landsmeer.jpeg
+avatar_filename: tim_van_de_kerkhof.jpeg
 organizations:
   - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
-  - lennartlandsmeer
+  - timvandekerkhof
 bio: My focus includes computing and programmable matter.
 interests:
   - Atherosclerosis
@@ -34,6 +34,6 @@ education:
       year: 2019
 email: ""
 user_groups:
-  - Researchers
+  - Alumni
 ---
 Lennart Landsmeer works as a research assistant in bioinformatics. His expertise extends into various types of coding (BASH, Python, etc) and the implementation of various solutions to share and analyse data.

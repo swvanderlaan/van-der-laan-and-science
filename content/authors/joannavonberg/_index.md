@@ -1,13 +1,13 @@
 ---
 title: Lennart Landsmeer
-role: Research assistant bioinformatics
-avatar_filename: lennart_landsmeer.jpeg
+role: PhD student
+avatar_filename: joanna_von_berg.jpeg
 organizations:
   - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
-  - lennartlandsmeer
+  - joannavonberg
 bio: My focus includes computing and programmable matter.
 interests:
   - Atherosclerosis

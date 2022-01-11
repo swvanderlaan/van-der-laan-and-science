@@ -3,8 +3,8 @@ widget: hero
 widget_id: Welcome
 headless: true
 weight: 10
-title: Van der Laan & Science
-hero_media: welcome.jpg
+title: 
+hero_media: man_standing_dna_shutterstock_251639014_squared.png
 design:
   columns: "2"
   css_style: null

@@ -1,13 +1,13 @@
 ---
 title: Lennart Landsmeer
-role: Research assistant bioinformatics
-avatar_filename: lennart_landsmeer.jpeg
+role: PhD student
+avatar_filename: kai_cui.jpeg
 organizations:
   - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
-  - lennartlandsmeer
+  - 吳恩達
 bio: My focus includes computing and programmable matter.
 interests:
   - Atherosclerosis

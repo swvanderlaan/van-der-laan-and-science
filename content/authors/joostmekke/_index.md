@@ -1,13 +1,13 @@
 ---
 title: Lennart Landsmeer
-role: Research assistant bioinformatics
+role: Joost Mekke
 avatar_filename: lennart_landsmeer.jpeg
 organizations:
   - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
-  - lennartlandsmeer
+  - joostmekke
 bio: My focus includes computing and programmable matter.
 interests:
   - Atherosclerosis
