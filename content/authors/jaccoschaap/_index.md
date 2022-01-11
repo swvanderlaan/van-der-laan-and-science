@@ -29,6 +29,6 @@ education:
       year: 2017
 email: ""
 user_groups:
-  - Alumni
+  - Alumni, UnderGrad Students
 ---
 Jacco worked with us to develop the [QTLToolKit](https://github.com/swvanderlaan/QTLToolKit) for his BSc internship at the HAN. He now works as a consultant at AFAS Software.

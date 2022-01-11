@@ -37,6 +37,6 @@ education:
       year: 2011
 email: ""
 user_groups:
-  - Alumni
+  - Alumni, UnderGrad Students
 ---
 Tim joined our lab as an intern to perform genome-wide association studies of atherosclerotic endophenotypes. He now works as a data scientist at Always Be Learning.

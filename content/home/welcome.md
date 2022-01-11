@@ -6,7 +6,7 @@ weight: 10
 title: 
 hero_media: man_standing_dna_shutterstock_251639014_squared.png
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:

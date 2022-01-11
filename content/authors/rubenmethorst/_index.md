@@ -36,6 +36,6 @@ education:
       year: 2019
 email: ""
 user_groups:
-  - Alumni
+  - Alumni, UnderGrad Students
 ---
 Ruben was an intern on post-GWAS analysis combining dry-lab computational skills with wet-lab experimental work to study cardiovascular GWAS loci. After successfully finishing his internship in our lab, he moved on to visit the [Miller Lab](http://millerlab.org/) in Virginia, and later joined the labs of Monique Jongbloed and Marco DeRuiter at the LUMC.
