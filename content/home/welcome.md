@@ -12,7 +12,7 @@ design:
   background:
     image: bannerartboard_1.png
     image_darken: 0
-    color: rgba(0, 0, 0, 0)
+    color: ""
 ---
 <br>
 
