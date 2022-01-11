@@ -1,7 +1,7 @@
 ---
 title: Sander W. van der Laan
 role: Assistant Professor Cardiovascular Genetics & Open Science
-avatar_filename: avatar.png
+avatar_filename: swvanderlaan.jpg
 bio: My academic interests include the cardiovascular genetics, atherosclerosis,
   and Open Science.
 interests:
