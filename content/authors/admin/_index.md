@@ -17,21 +17,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/swvanderlaan
-  - display:
-      header: false
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/swvanderlaan/
-    icon: linkedin
-  - display:
-      header: false
+  - icon: orcid
+    icon_pack: ai
     link: http://orcid.org/0000-0001-6888-1404
+  - icon: researchgate
     icon_pack: ai
-    icon: orcid
-  - display:
-      header: false
     link: https://www.researchgate.net/profile/Sander_Van_Der_Laan3
-    icon_pack: ai
-    icon: researchgate
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?hl=nl&user=Enb6RSIAAAAJ
@@ -43,7 +37,7 @@ organizations:
     url: https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health
 education:
   courses:
-    - course: " PhD in Cardiovascular Genetics"
+    - course: PhD in Cardiovascular Genetics
       institution: Utrecht University
       year: 2016
     - course: Masterclass Cardiology
@@ -59,7 +53,7 @@ email: s.w.vanderlaan-2@umcutrecht.nl
 superuser: true
 user_groups:
   - Researchers
-highlight_name: false
+highlight_name: true
 ---
 I am an assistant professor in the [Central Diagnostics Laboratory](https://www.umcutrecht.nl/en/Subsites/UMC-Utrecht-Lab/About-us/Laboratory-of-Clinical-Chemistry-Haematology) which is part of the [Circulatory Health Program](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health) at the University Medical Center Utrecht and University of Utrecht. My research interest is focused on the genetic and epigenetic causes of carotid and coronary atherosclerosis underlying *ischemic stroke (IS)* and *coronary artery disease (CAD)*, and their intermediate traits such as *carotid intima media thickness (cIMT)* and *arterial calcification*. 
 
