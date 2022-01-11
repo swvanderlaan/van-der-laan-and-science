@@ -1,6 +1,6 @@
 ---
 title: Ruben Methorst
-role: Research assistant bioinformatics
+role: MSc and BSc intern
 avatar_filename: lennart_landsmeer.jpeg
 organizations:
   - name: University Medical Center Utrecht

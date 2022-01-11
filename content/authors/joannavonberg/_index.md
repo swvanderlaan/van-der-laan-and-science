@@ -1,5 +1,5 @@
 ---
-title: Lennart Landsmeer
+title: Joanna von Berg
 role: PhD student
 avatar_filename: joanna_von_berg.jpeg
 organizations:

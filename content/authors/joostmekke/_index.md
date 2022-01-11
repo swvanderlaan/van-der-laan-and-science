@@ -1,6 +1,6 @@
 ---
-title: Lennart Landsmeer
-role: Joost Mekke
+title: Joost Mekke
+role: PhD student
 avatar_filename: lennart_landsmeer.jpeg
 organizations:
   - name: University Medical Center Utrecht

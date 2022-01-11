@@ -1,5 +1,5 @@
 ---
-title: Lennart Landsmeer
+title: Kai Cui
 role: PhD student
 avatar_filename: kai_cui.jpeg
 organizations:
