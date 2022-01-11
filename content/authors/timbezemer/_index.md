@@ -1,5 +1,5 @@
 ---
-title: Tim van de Kerkhof
+title: Tim Bezemer
 role: BSc and MSc intern
 avatar_filename: timbezemer.jpeg
 organizations:
