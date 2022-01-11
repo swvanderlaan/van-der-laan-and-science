@@ -33,6 +33,6 @@ education:
       year: 2018
 email: ""
 user_groups:
-  - ["Researchers", "Visitors"]
+  - "Visitors"
 ---
 Yipei is a visiting researcher from the [Miller Lab](http://millerlab.org/) in Virginia and applies machine learning on whole-slide images from carotid atherosclerotic plaques.
