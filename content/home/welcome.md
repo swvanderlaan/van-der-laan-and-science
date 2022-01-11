@@ -10,9 +10,9 @@ design:
   css_style: null
   css_class: null
   background:
-    image: drugs_dna_shutterstock_187673687_squared.png
+    image: bannerartboard_1.png
     image_darken: 0
-    color: "#1b7a31"
+    color: rgba(0, 0, 0, 0)
 ---
 <br>
 
